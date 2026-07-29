@@ -27,3 +27,17 @@ A local AI-powered Meeting Assistant built with React, FastAPI, Whisper and Micr
 Management Information Systems Student
 
 AI • Data Engineering • Machine Learning
+
+---
+
+## 🚀 Installation
+
+### Backend Setup
+
+```bash
+cd backend
+
+pip install -r requirements.txt
+
+uvicorn main:app --reload
+
